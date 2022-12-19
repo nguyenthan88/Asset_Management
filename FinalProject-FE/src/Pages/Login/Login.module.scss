@@ -1,0 +1,17 @@
+.loginPage {
+  // padding: 112px 0 24px;
+  // height: calc(100vh - 72px);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  .loginForm {
+    width: 368px;
+    margin: 0 auto;
+
+    .header {
+      margin: 0 0 24px 0;
+      text-align: center;
+    }
+  }
+}

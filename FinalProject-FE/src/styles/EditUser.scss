@@ -1,0 +1,17 @@
+.edit {
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0);
+  flex: 100;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  .top {
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    height: 50px;
+    margin: 0px auto 50px;
+    width: 50%;
+    justify-content: center;
+    display: flex;
+  }
+}
